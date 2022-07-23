@@ -12,7 +12,7 @@ yarn android
 iOS
 
 ```
-yarn iOS
+yarn ios
 ```
 
 ## APK Optimization
